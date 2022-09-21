@@ -3,6 +3,8 @@ whatsapp spam script **WORKING**
 
 ## How to start?
 
+- install [Python](https://python.org/download/)
+
 - download the project
 
 - extract it
