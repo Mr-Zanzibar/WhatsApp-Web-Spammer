@@ -21,7 +21,7 @@ To make everything work you have to prepare:
 
 ## Doc
 
-- the script will ask you for a limit
+- the script will ask you for a limit:
 
 * Just set the max message limit (no more messages will be sent after that number)
 
